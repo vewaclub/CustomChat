@@ -1,0 +1,6 @@
+name: CustomChat
+version: '${version}'
+
+main: btw.braindead.customChat.CustomChat
+api-version: '1.21.11'
+load: POSTWORLD
